@@ -17,8 +17,7 @@
 - blog - [https://velog.io/@ghdy68](https://velog.io/@ghdy68)
 
 ## 프로젝트
-1. Waffle
-   - github : [https://github.com/HoGyeongC/waffle-Back-end](https://github.com/HoGyeongC/waffle-Back-end)
+### 1. [Waffle](https://github.com/HoGyeongC/waffle-Back-end)
    - 개발 인원 : 3명
    - 개발 기간 : 2023.02 ~ 2023.06
    - 역할
