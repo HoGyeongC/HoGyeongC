@@ -33,10 +33,10 @@
 
 ## 기술
 - 언어
-  - C, Python, Java
+  - Java, C, Python, unix
 - 백엔드
   - Spring boot, AWS(EC2, RDS), django
 - 데이터 베이스
   - MySQL, Redis
 - 사용 도구
-  - GitHub, IntelliJ, Postman, VisualStudio Code, VisualStudio, Discode, pyCharm, Sourcetree, Notion
+  - GitHub, IntelliJ, Postman, VisualStudio Code, VisualStudio, pyCharm, Sourcetree, docker, Nginx, Notion, Discode, figma
