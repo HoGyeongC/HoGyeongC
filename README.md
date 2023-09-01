@@ -1,6 +1,6 @@
 # HoGyeong 함께하는 개발자 
 
-![프로필](https://github.com/HoGyeongC/portfolio/assets/114250166/6f870e5e-e088-44eb-a335-50e81810c683){: width="100" height="100"}
+<img src="https://github.com/HoGyeongC/portfolio/assets/114250166/6f870e5e-e088-44eb-a335-50e81810c683" width="40%" height="40%">
 
 ## 소개
  **안녕하세요. 항상 혼자보다는 함께 나아가는 개발자가 되고 싶은 최호경입니다.**
